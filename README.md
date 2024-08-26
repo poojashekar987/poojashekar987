@@ -9,7 +9,8 @@
 
 - 💬 Ask me about **Java, Springboot, OOPs ,MySQL etc..**
 
-- 📫 How to reach me **poojashekharofficial@gmail.com**
+- 📫 How to reach me **pooja.s@myemailjob.com![image](https://github.com/user-attachments/assets/f343e146-53c8-4172-8d1b-8983c189de30)
+**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
